@@ -1,0 +1,2 @@
+Sum: 28
+Average: 7.0
