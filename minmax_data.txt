@@ -1,0 +1,3 @@
+Numbers: [10, 20, 30, 40]
+Maximum: 40
+Minimum: 10
