@@ -14,8 +14,7 @@ with open('sentence_data.txt', 'w') as out_file:
 
 with open('sentence_data.txt', 'r') as in_file:
     line1 = in_file.readline()
-    line2 = in_file.readline()
-   
+    line2 = in_file.readline()   
     print(line1, end='')
     print(line2, end='')
    
