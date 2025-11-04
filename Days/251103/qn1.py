@@ -21,3 +21,4 @@ with open('qn01_data.txt', 'r') as input_file:
     file_words_tuple_line =  input_file.readline()
     print(file_words_list_line)
     print(file_words_tuple_line)
+    

@@ -1,2 +1,2 @@
-list:['&', 'C:/Users/bbirajda/AppData/Local/Programs/Python/Python312/python.exe', '"c:/Users/bbirajda/OneDrive', '-', 'Cisco/Desktop/Cisco', 'Learning', 'Python/Cisco-Learning-Python/Days/031125/qn2.py"']
-tuple:('&', 'C:/Users/bbirajda/AppData/Local/Programs/Python/Python312/python.exe', '"c:/Users/bbirajda/OneDrive', '-', 'Cisco/Desktop/Cisco', 'Learning', 'Python/Cisco-Learning-Python/Days/031125/qn2.py"')
+list:['Bibhishan', 'Birajdar']
+tuple:('Bibhishan', 'Birajdar')
