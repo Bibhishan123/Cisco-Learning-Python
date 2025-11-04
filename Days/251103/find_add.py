@@ -3,6 +3,7 @@ Defines find_sum
 Uses find_sum
 '''
 def find_sum_of_four(first, second, third, fourth, offset = 5, another_arg = 2):
+    
     '''
     find_sum takes arguments and returns sum of the four numbers
     '''
