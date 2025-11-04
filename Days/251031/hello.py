@@ -17,4 +17,3 @@ print(f'Hello {person}')
 
 print(greet(person))
 print(hi(person))
-
