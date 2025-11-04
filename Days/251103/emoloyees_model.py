@@ -14,8 +14,6 @@ class Employee:
         #return f'{self.name}, {self.job_title}'
         return self.__repr__()
 
-
-
 def add_employee(employee):
     employees.append(employee)
     print('Employee Added Successfully')
