@@ -1,1 +1,4 @@
 /__pycache__
+employees_db.sqlite
+employees_db.dat
+employees_db.json
