@@ -38,3 +38,4 @@ with open('numbers_data.txt', 'r') as in_file:
     print(line1, end='')
     print(line2, end='')
     print(line3, end='')
+    

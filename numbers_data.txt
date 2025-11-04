@@ -1,2 +1,3 @@
-Sum: 28
-Average: 7.0
+numbers list: [10, 20, 30, 40]
+sum: 100
+average: 25.0
