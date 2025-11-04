@@ -21,5 +21,4 @@ with open("names_data.txt", "r") as in_file:
     line2 = in_file.readline()
    
     print(line1, end='')
-    print(line2, end='')
-   
+    print(line2, end='')   
