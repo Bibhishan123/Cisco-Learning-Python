@@ -25,4 +25,3 @@ for salary in salaries:
     i+=1
 
 print(search_index)
-
